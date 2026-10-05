@@ -3,7 +3,7 @@
   "cleanUrls": true,
   "headers": [
     {
-      "source": "/(.*)\\.(jpeg|jpg|png|webp|svg|css|js)",
+      "source": "/(.*)\\.(jpeg|jpg|png|webp|svg)",
       "headers": [
         {
           "key": "Cache-Control",
