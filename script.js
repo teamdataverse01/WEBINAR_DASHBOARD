@@ -1,4 +1,4 @@
-const webinarStart = new Date("2026-10-10T17:00:00+01:00").getTime();
+const webinarStart = new Date("2026-10-17T17:00:00+01:00").getTime();
 const units = { days: 86400000, hours: 3600000, minutes: 60000, seconds: 1000 };
 const countdownCells = document.querySelectorAll("[data-unit]");
 
